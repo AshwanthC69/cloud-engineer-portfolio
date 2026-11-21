@@ -68,10 +68,18 @@ Workflow file: `.github/workflows/deploy-to-s3.yml`
 
 ```text
 cloud-engineer-portfolio/
+│
+├── README.md
 ├── index.html
 ├── style.css
-├── README.md
+│
 ├── screenshots/
+│   ├── 01-github-repository.png
+│   ├── 02-s3-static-hosting.png
+│   ├── 03-live-portfolio.png
+│   ├── 04-github-actions-success.png
+│   └── 05-iam-s3-permissions.png
+│
 └── .github/
     └── workflows/
         └── deploy-to-s3.yml
