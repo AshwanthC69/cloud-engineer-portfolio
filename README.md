@@ -83,3 +83,52 @@ cloud-engineer-portfolio/
 └── .github/
     └── workflows/
         └── deploy-to-s3.yml
+
+## 📸 Project Screenshots
+
+### 1. GitHub Repository
+![GitHub Repository](screenshots/01-github-repository.png)
+
+### 2. AWS S3 Static Website Hosting
+![S3 Hosting](screenshots/02-s3-static-hosting.png)
+
+### 3. Live Portfolio Website
+![Live Portfolio](screenshots/03-live-portfolio.png)
+
+### 4. Successful CI/CD Deployment
+![GitHub Actions](screenshots/04-github-actions-success.png)
+
+### 5. AWS IAM Permissions
+![IAM Permissions](screenshots/05-iam-s3-permissions.png)
+
+## 📚 Key Learnings
+
+Through this project, I gained practical experience in:
+
+- Hosting a static website using Amazon S3.
+- Managing source code using Git and GitHub.
+- Creating a CI/CD workflow using GitHub Actions.
+- Configuring AWS IAM roles and permissions.
+- Integrating GitHub Actions with AWS using OIDC.
+- Automating website deployment to AWS.
+
+## 🔮 Future Improvements
+
+- Add CloudFront for HTTPS and content delivery.
+- Configure a custom domain.
+- Explore automated testing in the CI/CD pipeline.
+- Add monitoring and logging.
+
+## 👨‍💻 Author
+
+**Ashwanth C**
+
+Aspiring Cloud Support Engineer | Cloud Computing | AWS | Linux | Networking | DevOps
+
+- **GitHub:** [AshwanthC69](https://github.com/AshwanthC69)
+- **LinkedIn:** [Ashwanth C](https://www.linkedin.com/in/ashwanth-c-59439925a/)
+- **Email:** ashwanthchandran@gmail.com
+
+---
+
+⭐ If you find this project useful, feel free to explore the repository.
